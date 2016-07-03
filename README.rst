@@ -17,7 +17,7 @@ Preparing environment
         virtualenv devenv
         source devenv/bin/activate
 
-        pip install -r requirements.txt
+        make deps
 
         make download_data extract_data
 
