@@ -3,6 +3,25 @@
 
 |goto-ru| |apache-2| |mit|
 
+Using
+=====
+
+Preparing environment
+#####################
+
+.. code:: sh
+
+        git clone $project
+        cd $project
+
+        virtualenv devenv
+        source devenv/bin/activate
+
+        pip install -r requirements.txt
+
+        make get_data
+
+
 Licensed under Apache 2 and MIT.
 
 
