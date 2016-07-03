@@ -19,7 +19,7 @@ Preparing environment
 
         pip install -r requirements.txt
 
-        make get_data
+        make download_data extract_data
 
 
 Licensed under Apache 2 and MIT.
