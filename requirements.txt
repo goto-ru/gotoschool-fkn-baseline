@@ -1,0 +1,3 @@
+rep==0.6.5
+jupyter==1.0.0
+wldhx.yadisk-direct==0.0.6
