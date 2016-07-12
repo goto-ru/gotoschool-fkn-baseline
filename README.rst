@@ -3,6 +3,10 @@
 
 |goto-ru| |apache-2| |mit|
 
+This repository features two baseline versions (both based on collaborative filtration): a simpler one (``baseline-simple.ipynb``) based on cosine similarity between film audiences and a more complex one (``baseline-intermediate.ipynb``) using TSVD user-item matrix decomposition.
+
+The metric used is mAP@10 (NB: be sure to check the notes in the notebooks before comparing scores!).
+
 Using
 =====
 
