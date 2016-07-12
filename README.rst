@@ -6,9 +6,6 @@
 Using
 =====
 
-Preparing environment
-#####################
-
 .. code:: sh
 
         git clone $project
@@ -20,6 +17,8 @@ Preparing environment
         make deps
 
         make download_data extract_data
+
+        jupyter notebook
 
 
 Licensed under Apache 2 and MIT.
