@@ -8,7 +8,7 @@
 This repository features two baseline versions (both based on collaborative filtration): a simpler one (``baseline-simple.ipynb``) based on cosine similarity between film audiences and a more complex one (``baseline-intermediate.ipynb``) using TSVD user-item matrix decomposition.
 There's also a notebook with simple examples on data manipulation (opening, mostly) with an intuitive name of ``data_manipulation.ipynb``.
 
-The metric used is mAP@10 (NB: be sure to check the notes in the notebooks before comparing scores!).
+The metric used is `mAP@10` (NB: be sure to check the notes in the notebooks before comparing scores!).
 
 Using
 =====
