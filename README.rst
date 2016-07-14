@@ -3,6 +3,8 @@
 
 |goto-ru| |apache-2| |mit|
 
+(`School announcement on habrahabr.ru <https://habrahabr.ru/company/goto/blog/305526/>`_ (in Russian), with additional school description and extended explanation of methods used.)
+
 This repository features two baseline versions (both based on collaborative filtration): a simpler one (``baseline-simple.ipynb``) based on cosine similarity between film audiences and a more complex one (``baseline-intermediate.ipynb``) using TSVD user-item matrix decomposition.
 
 The metric used is mAP@10 (NB: be sure to check the notes in the notebooks before comparing scores!).
